@@ -1,10 +1,8 @@
 # Food-Recipe
-Apr 2021 – Aug 2021
+sep-2023
 
-_This was our college Minor Project_ 
 
-Deployed Link : http://still-cove-96452.herokuapp.com/ <br>
-GitHub Linlk : https://github.com/harish127/Food-Recipe
+GitHub Linlk : 
 
 ### Features
 - Search your favourite recipes on the go.
@@ -19,10 +17,9 @@ GitHub Linlk : https://github.com/harish127/Food-Recipe
 - PHP
 
 ### Description
-This project is mainly based on 3rd Party API which serves all the data to our project and our project manages all data and present in a viewable form.
-This was our Minor Project, we divided task through assigning different roles to everyone.
-We were total group of 3 people.
-I was responsible for the Back-end side of project and other two were for Front-end and Documentation respectively.
+This project is mainly based on 3rd Party API which serves all the data to our project and the project manages all data and present in a viewable form.
+This was  Minor Project, we divided task through assigning different roles to everyone.
+
 
 ### Challenges Faced During Development
 - I have no prior knowledge about PHP scripting language, Learn by building the Project side by side.
@@ -30,7 +27,7 @@ I was responsible for the Back-end side of project and other two were for Front-
 - Creating a Working Contact Us page.
 
 ### Future Scope of the Project
-- Implementing our own Database System, Storing Information about User and Recipes.
+- Implementing  own Database System, Storing Information about User and Recipes.
 - Ability to add Recipes of our own.
 - User's can interact with other User recipes by rating their Recipe.
 
